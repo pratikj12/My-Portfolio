@@ -66,7 +66,7 @@ const Landing = ({ setSelectedPage }) => {
             hover:bg-blue hover:text-white transition duration-500"
             target="_blank"
           >
-            Career Snapshot
+            My Resume
           </a>
           <AnchorLink
             className="rounded-r-sm bg-gradient-rainblue py-0.5 pr-0.5"
